@@ -1,6 +1,10 @@
 # glitchandy
 > a dark and vibrant colorscheme
 
+To request an application [create an Issue](https://github.com/glitchcandy/.github/issues/new) or [start a Discussion](https://github.com/orgs/glitchcandy/discussions/new?category=app-recomendations).
+
+It takes time to maintain a colorscheme for many apps, if you would maintain for an app you use often [create an Issue](https://github.com/glitchcandy/.github/issues/new) and @GlitchyCrafting for access.
+
 ### Spec
 Append `-alt` to the name to use the alt code
 | Name       | Color Code | Alt Code |
