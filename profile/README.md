@@ -31,3 +31,4 @@ Append `-alt` to the name to use the alt code
 - [Fuzzel](https://github.com/glitchcandy/glitchcandy-fuzzel)
 - [CSS](https://github.com/glitchcandy/glitchcandy-css)
 - [Cava](https://github.com/glitchcandy/glitchcandy-cava)
+- [Pixelorama](https://github.com/glitchcandy/glitchcandy-pixelorama)
