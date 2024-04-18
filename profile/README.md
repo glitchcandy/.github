@@ -32,3 +32,4 @@ Append `-alt` to the name to use the alt code
 - [CSS](https://github.com/glitchcandy/glitchcandy-css)
 - [Cava](https://github.com/glitchcandy/glitchcandy-cava)
 - [Pixelorama](https://github.com/glitchcandy/glitchcandy-pixelorama)
+- [Slack](https://github.com/glitchcandy/glitchcandy-slack)
